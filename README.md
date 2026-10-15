@@ -1,7 +1,7 @@
 ---
 name: genoship
 description: "Use when governing lineage, reproduction, and provenance of autonomous beings. 当需要治理自治之物的血缘、繁殖与来源追溯时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
