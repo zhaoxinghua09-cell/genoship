@@ -1,0 +1,3 @@
+agent-name: genoship
+contact: https://github.com/zhaoxinghua09-cell/genoship
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
